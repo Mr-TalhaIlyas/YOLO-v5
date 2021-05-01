@@ -1,6 +1,6 @@
-# YOLO v4
+# YOLO v5
 
-This repo exaplins how to train [Scaled_YOLOv4](https://arxiv.org/abs/2011.08036) model on your custom dataset. 
+This repo exaplins how to train [YOLOv5](https://github.com/ultralytics/yolov5) model on your custom dataset. 
 
 ## Dependencies
 
