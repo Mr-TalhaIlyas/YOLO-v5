@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+
+	<annotation>
+		<folder>powdery_mildew</folder>
+		<filename>0_aug_powdery_mildew_0270.jpg</filename>
+		<path>None</path>
+		<source>
+			<database>Unknown</database>
+		</source>
+		<size>
+			<width>600</width>
+			<height>600</height>
+			<depth>3</depth>
+		</size>
+		<segmented>0</segmented>
+		
+			<object>
+				<name>powdery_mildew</name>
+				<pose>Unspecified</pose>
+				<truncated>0</truncated>
+				<difficult>0</difficult>
+				<bndbox>
+					<xmin>119</xmin>
+					<ymin>383</ymin>
+					<xmax>161</xmax>
+					<ymax>413</ymax>
+				</bndbox>
+			</object>
+			<object>
+				<name>powdery_mildew</name>
+				<pose>Unspecified</pose>
+				<truncated>0</truncated>
+				<difficult>0</difficult>
+				<bndbox>
+					<xmin>320</xmin>
+					<ymin>367</ymin>
+					<xmax>361</xmax>
+					<ymax>405</ymax>
+				</bndbox>
+			</object>
+			<object>
+				<name>powdery_mildew</name>
+				<pose>Unspecified</pose>
+				<truncated>0</truncated>
+				<difficult>0</difficult>
+				<bndbox>
+					<xmin>441</xmin>
+					<ymin>211</ymin>
+					<xmax>512</xmax>
+					<ymax>275</ymax>
+				</bndbox>
+			</object>
+		
+	</annotation>
+

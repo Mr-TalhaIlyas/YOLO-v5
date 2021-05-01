@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+
+	<annotation>
+		<folder>4</folder>
+		<filename>spotting_disease_0516.JPG</filename>
+		<path>C:\Users\wonsikyoo\Desktop\4\spotting_disease_0516.JPG</path>
+		<source>
+			<database>Unknown</database>
+		</source>
+		<size>
+			<width>3264</width>
+			<height>2448</height>
+			<depth>3</depth>
+		</size>
+		<segmented>0</segmented>
+		
+			<object>
+				<name>spotting_disease</name>
+				<pose>Unspecified</pose>
+				<truncated>0</truncated>
+				<difficult>0</difficult>
+				<bndbox>
+					<xmin>1998</xmin>
+					<ymin>764</ymin>
+					<xmax>2391</xmax>
+					<ymax>1201</ymax>
+				</bndbox>
+			</object>
+			<object>
+				<name>spotting_disease</name>
+				<pose>Unspecified</pose>
+				<truncated>0</truncated>
+				<difficult>0</difficult>
+				<bndbox>
+					<xmin>1345</xmin>
+					<ymin>1837</ymin>
+					<xmax>1815</xmax>
+					<ymax>2347</ymax>
+				</bndbox>
+			</object>
+			<object>
+				<name>spotting_disease</name>
+				<pose>Unspecified</pose>
+				<truncated>0</truncated>
+				<difficult>0</difficult>
+				<bndbox>
+					<xmin>28</xmin>
+					<ymin>1024</ymin>
+					<xmax>608</xmax>
+					<ymax>1641</ymax>
+				</bndbox>
+			</object>
+			<object>
+				<name>spotting_disease</name>
+				<pose>Unspecified</pose>
+				<truncated>0</truncated>
+				<difficult>0</difficult>
+				<bndbox>
+					<xmin>818</xmin>
+					<ymin>1727</ymin>
+					<xmax>955</xmax>
+					<ymax>1874</ymax>
+				</bndbox>
+			</object>
+		
+	</annotation>
+

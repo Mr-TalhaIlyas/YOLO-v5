@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+
+	<annotation>
+		<folder>2</folder>
+		<filename>0_aug_graymold_0341.png</filename>
+		<path>None</path>
+		<source>
+			<database>Unknown</database>
+		</source>
+		<size>
+			<width>320</width>
+			<height>320</height>
+			<depth>3</depth>
+		</size>
+		<segmented>0</segmented>
+		<object>
+			<name>graymold</name>
+			<pose>Unspecified</pose>
+			<truncated>0</truncated>
+			<difficult>0</difficult>
+			<bndbox>
+				<xmin>208</xmin>
+				<ymin>177</ymin>
+				<xmax>267</xmax>
+				<ymax>233</ymax>
+			</bndbox>
+		</object>
+	</annotation>
+

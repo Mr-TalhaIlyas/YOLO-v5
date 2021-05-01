@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+
+	<annotation>
+		<folder>snail and slugs</folder>
+		<filename>0_aug_snails_(89).png</filename>
+		<path>None</path>
+		<source>
+			<database>Unknown</database>
+		</source>
+		<size>
+			<width>480</width>
+			<height>640</height>
+			<depth>3</depth>
+		</size>
+		<segmented>0</segmented>
+		
+			<object>
+				<name>snails_and_slugs</name>
+				<pose>Unspecified</pose>
+				<truncated>0</truncated>
+				<difficult>0</difficult>
+				<bndbox>
+					<xmin>300</xmin>
+					<ymin>275</ymin>
+					<xmax>326</xmax>
+					<ymax>300</ymax>
+				</bndbox>
+			</object>
+			<object>
+				<name>snails_and_slugs</name>
+				<pose>Unspecified</pose>
+				<truncated>0</truncated>
+				<difficult>0</difficult>
+				<bndbox>
+					<xmin>150</xmin>
+					<ymin>277</ymin>
+					<xmax>222</xmax>
+					<ymax>367</ymax>
+				</bndbox>
+			</object>
+			<object>
+				<name>snails_and_slugs</name>
+				<pose>Unspecified</pose>
+				<truncated>0</truncated>
+				<difficult>0</difficult>
+				<bndbox>
+					<xmin>207</xmin>
+					<ymin>253</ymin>
+					<xmax>221</xmax>
+					<ymax>267</ymax>
+				</bndbox>
+			</object>
+			<object>
+				<name>snails_and_slugs</name>
+				<pose>Unspecified</pose>
+				<truncated>0</truncated>
+				<difficult>0</difficult>
+				<bndbox>
+					<xmin>226</xmin>
+					<ymin>300</ymin>
+					<xmax>280</xmax>
+					<ymax>356</ymax>
+				</bndbox>
+			</object>
+		
+	</annotation>
+

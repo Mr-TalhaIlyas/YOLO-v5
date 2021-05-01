@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+
+	<annotation>
+		<folder>1</folder>
+		<filename>0_aug_blossom_end_rot_0587.JPG</filename>
+		<path>None</path>
+		<source>
+			<database>Unknown</database>
+		</source>
+		<size>
+			<width>3024</width>
+			<height>3024</height>
+			<depth>3</depth>
+		</size>
+		<segmented>0</segmented>
+		
+			<object>
+				<name>blossom_end_rot</name>
+				<pose>Unspecified</pose>
+				<truncated>0</truncated>
+				<difficult>0</difficult>
+				<bndbox>
+					<xmin>1619</xmin>
+					<ymin>1371</ymin>
+					<xmax>1816</xmax>
+					<ymax>1606</ymax>
+				</bndbox>
+			</object>
+			<object>
+				<name>blossom_end_rot</name>
+				<pose>Unspecified</pose>
+				<truncated>0</truncated>
+				<difficult>0</difficult>
+				<bndbox>
+					<xmin>1813</xmin>
+					<ymin>1396</ymin>
+					<xmax>2001</xmax>
+					<ymax>1771</ymax>
+				</bndbox>
+			</object>
+		
+	</annotation>
+
