@@ -7,7 +7,6 @@ This repo exaplins how to train [YOLOv5](https://github.com/ultralytics/yolov5) 
 Some of the main requirements are
 ```
 pytorch
-mish-cuda
 ```
 
 ## Roboflow
