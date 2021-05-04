@@ -11,12 +11,13 @@ pytorch
 
 ## Roboflow
 
-I'll be using the [YOLOv5](https://blog.roboflow.com/yolov5-improvements-and-evaluation/) repo in this tutorial, and go through the steps of how 
-Original [Colab Notebook](https://colab.research.google.com/drive/1W1-Q37UhxZ99IYKTG1OrsORrKj2R5U17#scrollTo=1NcFxRcFdJ_O)
+I'll be using the [YOLOv5](https://blog.roboflow.com/yolov5-improvements-and-evaluation/) repo in this tutorial, and go through the steps of how to
 
 1. Prepare your data 
 2. Convert data format from PASCAl_VOC to YOLO PyTorch format
 3. Installing repo
+
+Original [Colab Notebook](https://colab.research.google.com/drive/1W1-Q37UhxZ99IYKTG1OrsORrKj2R5U17#scrollTo=1NcFxRcFdJ_O)
 
 ## Dataset Preparation
 
