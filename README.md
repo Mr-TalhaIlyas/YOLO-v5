@@ -83,3 +83,6 @@ Place your data inside the `dir` you choose
 Now run the `YOLOv5.ipynd` follow steps inside notebook
 
 
+## Evaluation
+
+For in depth evaluation you can run the `my_inference.py` file from inside the scripts
