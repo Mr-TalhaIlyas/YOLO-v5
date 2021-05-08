@@ -1,6 +1,14 @@
 # YOLO v5
 
-This repo exaplins how to train [YOLOv5](https://github.com/ultralytics/yolov5) model on your custom dataset. 
+This repo exaplins how to train [Official YOLOv5](https://github.com/ultralytics/yolov5) model on your custom dataset. 
+
+YOLO v5 has different varients available depending upon resources available. Like, larger models like YOLOv5x and YOLOv5x6 will produce better results in nearly all cases, but have more parameters, require more CUDA memory to train, and are slower to run. For mobile deployments we recommend YOLOv5s/m, for cloud deployments we recommend YOLOv5l/x. See our README table for a full comparison of all models.
+
+![alt text]()
+
+### Comparison with other models
+
+![alt text]()
 
 ## Dependencies
 
