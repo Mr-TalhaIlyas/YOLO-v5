@@ -1,3 +1,4 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white" />
 # YOLO v5
 
 This repo exaplins how to train [Official YOLOv5](https://github.com/ultralytics/yolov5) model on your custom dataset. 
