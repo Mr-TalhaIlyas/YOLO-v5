@@ -5,6 +5,8 @@ This repo exaplins how to train [Official YOLOv5](https://github.com/ultralytics
 
 YOLO v5 has different varients available depending upon resources available. Like, larger models like YOLOv5x and YOLOv5x6 will produce better results in nearly all cases, but have more parameters, require more CUDA memory to train, and are slower to run. For mobile deployments we recommend YOLOv5s/m, for cloud deployments we recommend YOLOv5l/x. See our README table for a full comparison of all models.
 
+**Images form original repo**
+
 ![alt text](https://github.com/Mr-TalhaIlyas/YOLO-v5/blob/master/screens/img2.png)
 
 ### Comparison with other models
@@ -33,7 +35,7 @@ Original [Colab Notebook](https://colab.research.google.com/drive/1W1-Q37UhxZ99I
 First to train an object detection model you need a dataset annotated in proper format so download publically available datasets from [here](https://public.roboflow.com/).
 I'd recommend starting by downloading already available dataset. There are alot of format options available in Roboflow but for this repo we need `YOLO v5 PyTorch` as this 
 
-![alt text](https://github.com/Mr-TalhaIlyas/YOLO-v5/blob/master/screens/img.png)
+![alt text](https://github.com/Mr-TalhaIlyas/YOLO-v5/blob/master/screens/data_fmt.png)
 
 or you can also make you own dataset using `labelimg`. A full tutorial for that is [here](https://github.com/tzutalin/labelImg)
 The ouput annotation file for label me is `.xml` format but our yolov4 model can't read that so we need to convert the dataset into proper format.
