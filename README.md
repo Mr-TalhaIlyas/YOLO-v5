@@ -101,3 +101,14 @@ For in depth evaluation you can run the `my_inference.py` file from inside the s
 
 ## ⚠ Note ⚠
 This repo first creates a cache file where it sores the images and labels for faster training so every time you run the model from start its better to remove those cache files first to avoid getting unwanted errors or watnings
+
+## Citation
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4679653.svg)](https://doi.org/10.5281/zenodo.4679653)
+```
+@article{jocher2020yolov5,
+  title={Yolov5},
+  author={Jocher, Glenn and others},
+  journal={Code repository https://github. com/ultralytics/yolov5},
+  year={2020}
+}
+```
